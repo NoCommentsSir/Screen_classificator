@@ -1,4 +1,4 @@
-tensorflow==
+tensorflow
 keras
 numpy
 pandas
