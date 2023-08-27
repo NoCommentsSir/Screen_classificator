@@ -4,3 +4,5 @@ numpy
 pandas
 zipfile
 os
+Pillow
+google-colab
